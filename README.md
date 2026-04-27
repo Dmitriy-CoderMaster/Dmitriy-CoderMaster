@@ -1,4 +1,5 @@
 ## Hi there 👋
+## Im 15 y.o. talent
 
 <!--
 **Dmitriy-CoderMaster/Dmitriy-CoderMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Описание](KIpitkov)
+!(KIpitkov)
 
 -->
