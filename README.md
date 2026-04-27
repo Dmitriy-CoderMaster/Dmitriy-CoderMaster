@@ -13,6 +13,7 @@
 
 Я не просто игрок и не просто кодер 🤖
 Я — процесс ♾️
+![my photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcyUWO568uLNs_1h3PZzvQ__-uiTqWIllAjA&s)
 
 <!--
 **Dmitriy-CoderMaster/Dmitriy-CoderMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
