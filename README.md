@@ -13,6 +13,8 @@
 
 Я не просто игрок и не просто кодер 🤖
 Я — процесс ♾️
+
+
 ![my photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcyUWO568uLNs_1h3PZzvQ__-uiTqWIllAjA&s)
 
 <!--
