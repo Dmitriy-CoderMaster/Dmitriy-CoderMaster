@@ -17,6 +17,8 @@
 
 ![my photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcyUWO568uLNs_1h3PZzvQ__-uiTqWIllAjA&s)
 
+![my photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL4qJdNKXI80VXS-T2wWbjIEXRFRnWMJgJTg&s)
+
 <!--
 **Dmitriy-CoderMaster/Dmitriy-CoderMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
