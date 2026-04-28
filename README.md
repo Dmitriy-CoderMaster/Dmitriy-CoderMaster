@@ -19,7 +19,7 @@
 🟪 Bootstrap
 🔵 CSS3
 🎨 Figma
-[🟧 HTML5](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s)
+![my photo(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s)
 🟨 JavaScript
 ☕ Java
 🌱 Spring Boot
