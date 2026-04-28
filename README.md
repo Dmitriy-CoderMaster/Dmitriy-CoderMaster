@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/2d11e347-99cc-4e19-aec8-279a4c95c78b
 
 )
 
-<!--
+
 **Dmitriy-CoderMaster/Dmitriy-CoderMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -39,5 +39,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 !(KIpitkov)
-
--->
