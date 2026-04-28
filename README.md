@@ -1,5 +1,5 @@
 ##                                                                     Здравствуйте  👋   
-                                                                добро пожаловать на мой GitHub
+                                                               добро пожаловать на мой GitHub
 ## Я существую на пересечении двух миров ⚖️: там, где логика становится судьбой, а хаос — тренировочной площадкой 🎮. В одном из них я — разработчик 💻, человек, говорящий с машинами на языке точности. В другом — игрок в Dota 2 🎯, где каждая ошибка оборачивается поражением, а каждая победа — лишь краткой иллюзией контроля 🌀
 
 Мой ранг — Рекрут 2 🪶 — не вершина, а точка отсчёта. Это напоминание о том, что путь важнее статуса 🛤️. Ведь в коде, как и в игре, нет финальной версии себя — есть только бесконечные обновления 🔄
@@ -15,6 +15,21 @@
 Я не просто игрок и не просто кодер 🤖
 Я — процесс ♾️
 
+я умею работать с 
+🟪 Bootstrap
+🔵 CSS3
+🎨 Figma
+🟧 HTML5
+🟨 JavaScript
+☕ Java
+🌱 Spring Boot
+🗄️ SQL
+🧬 Database
+так же у меня есть соц.сети
+💼 LinkedIn
+📩 Telegram
+🎵 TikTok
+
 
 ![my photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcyUWO568uLNs_1h3PZzvQ__-uiTqWIllAjA&s)
 
@@ -27,16 +42,4 @@ https://github.com/user-attachments/assets/2d11e347-99cc-4e19-aec8-279a4c95c78b
 )
 
 
-**Dmitriy-CoderMaster/Dmitriy-CoderMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-!(KIpitkov)
