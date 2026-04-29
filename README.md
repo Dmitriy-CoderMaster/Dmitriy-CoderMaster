@@ -32,11 +32,6 @@ Html5
 📩 Telegram
 🎵 TikTok
 
-
-![my photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcyUWO568uLNs_1h3PZzvQ__-uiTqWIllAjA&s)
-
-![my photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL4qJdNKXI80VXS-T2wWbjIEXRFRnWMJgJTg&s)
-
 ![gif](
 
 https://github.com/user-attachments/assets/2d11e347-99cc-4e19-aec8-279a4c95c78b
