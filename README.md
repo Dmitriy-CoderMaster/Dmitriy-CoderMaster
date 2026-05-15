@@ -1,43 +1,70 @@
-##                                                                     Здравствуйте  👋   
-                                                              добро пожаловать на мой GitHub
-## Я существую на пересечении двух миров ⚖️: там, где логика становится судьбой, а хаос — тренировочной площадкой 🎮. В одном из них я — разработчик 💻, человек, говорящий с машинами на языке точности. В другом — игрок в Dota 2 🎯, где каждая ошибка оборачивается поражением, а каждая победа — лишь краткой иллюзией контроля 🌀
+<div align="center">
+  <h1>👋 Добро пожаловать на мой GitHub!</h1>
+  
+  <img src="https://github.com/user-attachments/assets/2d11e347-99cc-4e19-aec8-279a4c95c78b" width="600" alt="GIF">
 
-Мой ранг — Рекрут 2 🪶 — не вершина, а точка отсчёта. Это напоминание о том, что путь важнее статуса 🛤️. Ведь в коде, как и в игре, нет финальной версии себя — есть только бесконечные обновления 🔄
+  <h3>⚖️ Я существую на пересечении двух миров</h3>
+</div>
 
-Я пишу функции и допускаю баги 🐞, я захожу в матч и совершаю ошибки ❌. Но именно в этих повторениях — суть развития 📈
+---
 
-Я — система в стадии отладки ⚙️
-Мой разум — как незавершённый алгоритм 🧠: иногда зацикливается 🔁, иногда находит неожиданное решение 💡
-Мои поражения — это логи 📜, мои победы — временные фиксы 🩹
+### 💻 Разработчик | 🎮 Dota 2 Рекрут 3
 
-И если смотреть глубже 👁️, Рекрут 2 — это не про слабость. Это про честность: я ещё в начале, и это даёт мне свободу учиться 📚, пробовать 🧪 и падать без иллюзий величия
+В одном мире я пишу чистый, структурированный код.  
+В другом — сражаюсь в хаосе матчей, где одна ошибка стоит поражения, а каждая победа — лишь временная иллюзия контроля.
 
-Я не просто игрок и не просто кодер 🤖
-Я — процесс ♾️
+**Мой ранг — Рекрут 3** 🪶  
+Это не вершина, а **точка отсчёта**. Напоминание, что путь важнее статуса.
 
-я умею работать с 
-🟪 Bootstrap
-🔵 CSS3
-🎨 Figma
-Html5
-🟨 JavaScript
-☕ Java
-🌱 Spring Boot
-🗄️ SQL
-🧬 Database
+---
 
+### 🧠 Философия
 
-<img src="https://komarev.com/ghpvc/?username=Dmitriy-CoderMaster&color=B49CFB&style=for-the-badge" alt="profile-views" width="140px" />
+Я пишу функции и допускаю баги 🐞  
+Захожу в матч и совершаю ошибки ❌  
 
-так же у меня есть соц.сети
-💼 LinkedIn
-📩 Telegram
-🎵 TikTok
+Но именно в этих повторениях — **суть развития**.  
+Я — система в стадии отладки ⚙️  
+Мой разум — незавершённый алгоритм, который иногда зацикливается, а иногда находит неожиданные решения.
 
-![gif](
+**Поражения — это логи.**  
+**Победы — временные фиксы.**
 
-https://github.com/user-attachments/assets/2d11e347-99cc-4e19-aec8-279a4c95c78b
+---
 
-)
+### 🛠 Технологии и инструменты
 
+<div align="center">
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+---
+
+### 📬 Связаться со мной
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/твой-ник) 
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник) 
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@твой_ник)
+
+</div>
+
+---
+
+<div align="center">
+  <i>Я — процесс. ♾️</i><br>
+  <b>Постоянное обновление — мой главный навык.</b>
+</div>
+
+<image-card alt="gif" src=" https://github.com/user-attachments/assets/2d11e347-99cc-4e19-aec8-279a4c95c78b "></image-card>
