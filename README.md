@@ -1,7 +1,8 @@
 <div align="center">
   <h1>👋 Добро пожаловать на мой GitHub!</h1>
   
-  ![GIF](
+  ![](
+  
 https://github.com/user-attachments/assets/662e517d-a194-454d-a09e-1140dc82e8d9
 
 
