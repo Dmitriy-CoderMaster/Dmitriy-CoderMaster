@@ -1,8 +1,8 @@
 <div align="center">
   <h1>👋 Добро пожаловать на мой GitHub!</h1>
-<video autoplay loop muted playsinline>
-  <source src="./gif.mp4" type="video/mp4">
-</video>
+<p align="center">
+  <video src="./gif.mp4" autoplay loop muted playsinline></video>
+</p>
   <h3>⚖️ Я существую на пересечении двух миров</h3>
 </div>
 
