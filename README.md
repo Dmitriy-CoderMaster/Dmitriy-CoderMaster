@@ -1,13 +1,6 @@
 <div align="center">
   <h1>👋 Добро пожаловать на мой GitHub!</h1>
-<div align="center">
-  <h1>👋 Добро пожаловать на мой GitHub!</h1>
-  
-  ![GIF](https://github.com/user-attachments/assets/2d11e347-99cc-4e19-aec8-279a4c95c78b)
-
-  <h3>⚖️ Я существую на пересечении двух миров</h3>
-</div>
-  
+ 
   <h3>⚖️ Я существую на пересечении двух миров</h3>
 </div>
 
