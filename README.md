@@ -27,15 +27,13 @@ Html5
 🧬 Database
 
 
+<img src="https://komarev.com/ghpvc/?username=Dmitriy-CoderMaster&color=B49CFB&style=for-the-badge" alt="profile-views" width="140px" />
+
 так же у меня есть соц.сети
 💼 LinkedIn
 📩 Telegram
 🎵 TikTok
 
-![gif](
-
-https://github.com/user-attachments/assets/2d11e347-99cc-4e19-aec8-279a4c95c78b
-
-)
+![gif](https://github.com/user-attachments/assets/2d11e347-99cc-4e19-aec8-279a4c95c78b)
 
 
