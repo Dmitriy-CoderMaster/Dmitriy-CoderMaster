@@ -34,6 +34,10 @@ Html5
 📩 Telegram
 🎵 TikTok
 
-![gif](https://github.com/user-attachments/assets/2d11e347-99cc-4e19-aec8-279a4c95c78b)
+![gif](
+
+https://github.com/user-attachments/assets/2d11e347-99cc-4e19-aec8-279a4c95c78b
+
+)
 
 
