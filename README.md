@@ -1,11 +1,7 @@
 <div align="center">
   <h1>👋 Добро пожаловать на мой GitHub!</h1>
- <video autoplay loop muted playsinline>
-  <source src="
-
-https://github.com/user-attachments/assets/d19b31d7-0314-4edc-b412-606482c4ba56
-
-" type="video/mp4">
+<video autoplay loop muted playsinline>
+  <source src="./gif.mp4" type="video/mp4">
 </video>
   <h3>⚖️ Я существую на пересечении двух миров</h3>
 </div>
